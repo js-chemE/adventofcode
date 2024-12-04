@@ -95,7 +95,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-aoc_2024/inputs/
+aoc_2024/
+test/
 
 
 # mkdocs documentation
